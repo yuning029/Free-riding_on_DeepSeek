@@ -113,6 +113,8 @@ https://ollama.com/
 https://freeollama.oneplus1.top/
 http://23.95.20.225:8000/
 ```
+![image](https://github.com/user-attachments/assets/2c16d200-bb69-4cb7-9a40-2588ed4e7b93)
+![image](https://github.com/user-attachments/assets/d690bd63-b3ae-4469-9f8f-beb0593090f8)
 
 ### 感谢边亮老师的推荐
 
