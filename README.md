@@ -3,7 +3,7 @@
 https://github.com/yuning029/Free-riding_on_DeepSeek
 
 
-
+# 远程服务器配置（白嫖不用看）
 ## 在 Chatbox 中连接远程 Ollama 服务
 
 除了可以轻松连接本地 Ollama 服务，Chatbox 也支持连接到运行在其他机器上的远程 Ollama 服务。
@@ -71,6 +71,7 @@ OLLAMA_ORIGINS=*
    systemctl restart ollama
    ```
 
+# 白嫖从此处看
 ### 服务 IP 地址
 
 配置后，Ollama 服务将能在当前网络（如家庭 Wifi）中提供服务。你可以使用其他设备上的 Chatbox 客户端连接到此服务。
