@@ -92,7 +92,7 @@ http://192.168.XX.XX:11434
 
 然后就可以提问了
 
-![image](https://github.com/user-attachments/assets/e501fe95-6074-42c2-a9a0-347fa3a842df)
+![image](https://github.com/user-attachments/assets/f3c71419-d372-47cf-829c-051adcc8d698)
 
 ### chatbox
 
